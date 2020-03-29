@@ -1,0 +1,18 @@
+<meta>
+	<info author="KronoS Lettify" name="Painel administrativo para banir" description="[Deixe os créditos intacto] - Script licenciado para Duffzin" />
+
+	<script src="Cliente/c.KronoSLettify" type="client" cache="false" />
+	<script src="Cliente/onSelect.KronoSLettify" type="client" cache="false" />
+
+	<script src="Servidor/s.KronoSLettify" type="server" />
+	<script src="Servidor/cont.KronoSLettify" type="server" />
+
+	<script src='c_config.lua' type='client' cache='false' />
+
+	<include resource="DGS_aqui" />
+	<include resource="notif_dx" />
+
+	<oop>true</oop>
+
+	<!-- Observação: A biblioteca do painel uso neste resoure, foi a biblioteca DGS -->
+</meta>

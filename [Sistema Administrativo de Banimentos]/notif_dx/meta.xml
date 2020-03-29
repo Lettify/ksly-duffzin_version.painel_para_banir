@@ -1,0 +1,21 @@
+<meta>
+    <info author="MODS MTA OFICIAL" version="1.0" type="script" />
+    <script src="sourceC.luac" type="client" />
+    <script src="sourceS.lua" type="server" />
+    
+    <file src="files/fonts/roboto.ttf" />
+    
+    <file src="files/e.mp3" />
+    <file src="files/w.mp3" />
+    <file src="files/i.mp3" />
+    <file src="files/s.mp3" />
+    
+    
+    <file src="files/e.png" />
+    <file src="files/w.png" />
+    <file src="files/i.png" />
+    <file src="files/s.png" />
+    
+    <export function="addNotification" type="client" />
+    <export function="addNotification" type="server" />
+</meta>
