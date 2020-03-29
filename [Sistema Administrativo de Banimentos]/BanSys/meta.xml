@@ -1,11 +1,14 @@
 <meta>
-	<info author="KronoS Lettify" name="Painel administrativo para banir" description="[Deixe os créditos intacto] - Script licenciado para Duffzin" />
+	<info author="KronoS Lettify" name="Painel administrativo para banir" description="[Deixe os créditos intacto] - Script licenciado para Duffzin" version="1.000" />
 
-	<script src="Cliente/c.KronoSLettify" type="client" cache="false" />
-	<script src="Cliente/onSelect.KronoSLettify" type="client" cache="false" />
+	<script src="Cliente/c.lua" type="client" cache="false" />
+	<script src="Cliente/onSelect.lua" type="client" cache="false" />
+	<script src="Cliente/c_transmissor.lua" type="client" cache="false" />
 
-	<script src="Servidor/s.KronoSLettify" type="server" />
-	<script src="Servidor/cont.KronoSLettify" type="server" />
+	<script src="Servidor/s.lua" type="server" />
+	<script src="Servidor/cont.lua" type="server" />
+	<script src="Servidor/auto_update.lua" type="server" />
+	<script src="Servidor/s_transmissor.lua" type="server" />
 
 	<script src='c_config.lua' type='client' cache='false' />
 
