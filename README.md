@@ -1,0 +1,1 @@
+Versão especial do script <Painel para Banir> para o Duffzin
