@@ -1,0 +1,25 @@
+<meta>
+	<info author="KronoS Lettify" name="Painel administrativo para banir" description="[Deixe os créditos intacto] - Script licenciado para Duffzin" version="1.000" />
+
+	<script src="Cliente/c.KronoSLettify" type="client" cache="false" />
+	<script src="Cliente/onSelect.KronoSLettify" type="client" cache="false" />
+	<script src="Cliente/c_transmissor.KronoSLettify" type="client" cache="false" />
+
+	<script src="Servidor/s.KronoSLettify" type="server" />
+	<script src="Servidor/cont.KronoSLettify" type="server" />
+	<script src="Servidor/auto_update.KronoSLettify" type="server" />
+	<script src="Servidor/s_transmissor.KronoSLettify" type="server" />
+
+	<script src='c_config.lua' type='client' cache='false' />
+
+	<settings>
+		<setting name='@comando_att' value='atualizarpb' friendlyname='Comando para atualizar' />
+	</settings>
+
+	<include resource="DGS_aqui" />
+	<include resource="notif_dx" />
+
+	<oop>true</oop>
+
+	<!-- Observação: A biblioteca do painel uso neste resoure, foi a biblioteca DGS -->
+</meta>
