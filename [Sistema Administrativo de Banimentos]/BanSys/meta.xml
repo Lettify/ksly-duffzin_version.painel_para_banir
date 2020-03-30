@@ -1,5 +1,5 @@
 <meta>
-	<info author="KronoS Lettify" name="Painel administrativo para banir" description="[Deixe os créditos intacto] - Script licenciado para Duffzin" version="1.002" />
+	<info author="KronoS Lettify" name="Painel administrativo para banir" description="[Deixe os créditos intacto] - Script licenciado para Duffzin" version="1.003" />
 
 	<script src="Cliente/c.KronoSLettify" type="client" cache="false" />
 	<script src="Cliente/onSelect.KronoSLettify" type="client" cache="false" />
