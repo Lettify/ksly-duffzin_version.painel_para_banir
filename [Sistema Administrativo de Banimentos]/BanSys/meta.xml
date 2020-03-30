@@ -13,7 +13,7 @@
 	<script src='c_config.lua' type='client' cache='false' />
 
 	<settings>
-		<setting name='@comando_att' value='atualizarpb' friendlyname='Comando para atualizar' />
+		<setting name='*comando_att' value='atualizarpb' friendlyname='Comando para atualizar' />
 	</settings>
 
 	<include resource="DGS_aqui" />
