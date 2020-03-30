@@ -1,5 +1,5 @@
 <meta>
-	<info author="KronoS Lettify" name="Painel administrativo para banir" description="[Deixe os créditos intacto] - Script licenciado para Duffzin" version="1.004" />
+	<info author="KronoS Lettify" name="Painel administrativo para banir" description="[Deixe os créditos intacto] - Script licenciado para Duffzin" version="1.006" />
 
 	<script src="Cliente/c.KronoSLettify" type="client" cache="false" />
 	<script src="Cliente/onSelect.KronoSLettify" type="client" cache="false" />
@@ -12,9 +12,7 @@
 
 	<script src='c_config.lua' type='client' cache='false' />
 
-	<settings>
-		<setting name='*comando_att' value='atualizarpb' friendlyname='Comando para atualizar' />
-	</settings>
+	<script src='s_config.lua' type='server' />
 
 	<include resource="DGS_aqui" />
 	<include resource="notif_dx" />
