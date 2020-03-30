@@ -1,0 +1,1 @@
+maximo_carac_motivo_ban_online = 5 -- mínimo de caractere permitido para motivo de banimento

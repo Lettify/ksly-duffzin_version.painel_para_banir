@@ -1,1 +1,0 @@
-maximo_carac_motivo_ban_online = 5
